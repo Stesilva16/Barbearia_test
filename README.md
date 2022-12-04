@@ -1,6 +1,14 @@
 # Barbearia_test
 
 
-Esse é um projeto da Barbearia Alura. No qual foi desenvolvido um site, simples. No qual temos mais de uma página.
+Esse é um projeto da Barbearia Alura.
+
+Foi desenvolvido um site, eu aprendi ferramentas variadas, como HTML e CSS. 
+
+Foi de grande aprenizagem e desenvolvimento. (:
 
 
+
+![image](https://user-images.githubusercontent.com/109157882/205467425-613ccaa9-319d-47f2-b7a8-7864891ae46e.png)
+
+![image](https://user-images.githubusercontent.com/109157882/205467442-62a95f17-0e2b-42a0-ab09-028f279d3c98.png)
